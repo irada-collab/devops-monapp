@@ -1,0 +1,16 @@
+{
+  "name": "monapp",
+  "version": "1.0.0",
+  "description": "Mini API pour le projet DevOps ISG Sousse",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
